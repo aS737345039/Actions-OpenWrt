@@ -15,3 +15,6 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+
+git clone https://github.com/GJXS1980/ODP.git package/drcomODP
+git clone https://github.com/CHN-beta/xmurp-ua.git package/xmurp-ua
