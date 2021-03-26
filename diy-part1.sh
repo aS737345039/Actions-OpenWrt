@@ -18,8 +18,3 @@
 
 git clone https://github.com/GJXS1980/ODP.git package/gdut-drcom
 git clone https://github.com/CHN-beta/xmurp-ua.git package/xmurp-ua
-git clone https://github.com/kuoruan/openwrt-v2ray.git package/v2ray-core
-git clone -b luci2 https://github.com/kuoruan/luci-app-v2ray.git package/luci-app-v2ray
-
-#Network ---> Project V ---> <*> v2ray-core
-#Network ---> Project V ---> <M> v2ray-core-mini
